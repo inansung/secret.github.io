@@ -556,7 +556,7 @@ $baseurl: '{{ site.baseurl }}/images';
     margin:30px 0;
 }
 .grid-image img {
-    width:calc(33.333% - 10px);
+    width:calc(33.333% - 50px);
     margin:0 15px 15px 0;
 }
 .grid-image img:nth-of-type(3n),
